@@ -1,3 +1,6 @@
-DESIGN 1  -> Majority Circuit
-DESIGN 2  -> Clock Generator
+| Design  | Description          |
+|---------|----------------------|
+| Design 1| Majority Circuit      |
+| Design 2| Clock Generator       |
+
 
